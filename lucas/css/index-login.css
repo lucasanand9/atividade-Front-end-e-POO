@@ -1,0 +1,19 @@
+body{
+    background-color: #add8e6;
+}
+
+.container-sm{
+    background-color: #add8e6;
+}
+header{
+    background-color: #FF7F00;
+    padding: 2vh;
+    text-align: center;
+}
+#grande{
+    font-size: 25px;
+}
+.card card-body{
+    background-color: #add8e6;
+}
+

@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #add8e6;
+    height: 140vh;
+}
+
+header{
+    padding: 1vh;
+    background-color: #FF7F00;
+}
+p{
+    font-family: -apple-system;
+    
+}
+hr{
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, transparent, #CCC, transparent);  
+}
+#grande{
+    font-size: 25px;
+}
+
